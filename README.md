@@ -2,11 +2,13 @@
 
 > Projet Machine Learning éthique pour prédire le départ des employés et proposer des leviers RH actionnables.
 
-<center><img src="imgs/predict_hist.png" width="600"></center>
+<center><img src="imgs/predict_hist.png" width="900"></center>
 
 **Contexte** : CESI École d'Ingénieurs - A3 FISE INFO - Bloc Intelligence Artificielle  
 **Date** : Décembre 2025  
 **Équipe** : Groupe 5 - CESI Analytics
+**Auteur** : Mickaël King
+**Contributeur** : BALDE Seyni Junior, EL GHAZAL Omar
 
 ---
 
@@ -69,7 +71,7 @@ Tout le rapport de ce projet est dans le fichier jupyter notebook suivant : **"n
 
 Ce fichier contient toute l'explication de notre projet ainsi que du code permettant la création de nos IA.
 
-Nos preuves scientifiques et notre conclusion y est inclus aussi.
+Nos preuves scientifiques et notre conclusion y sont aussi inclus.
 
 Libre à vous de le consulter si vous coulez tous les détailles de notre projet.
 
@@ -77,8 +79,6 @@ Libre à vous de le consulter si vous coulez tous les détailles de notre projet
 
 ## Comment utiliser
 
-Avec VS code :
-
 Faites simplement tourner chaques cellules dans l'ordre au fur et à mesure que vous parcourer le fichier **"notebooks/Livrable_2_Groupe_Seyni.ipynb"** et tout le programme s'executrera.
 
-<center><img src="imgs/run_tuto.png" width="600"></center>
+<center><img src="imgs/run_tuto.png" width="900"></center>
