@@ -81,6 +81,6 @@ Libre à vous de consulter le fichier si vous voulez tous les détailles de notr
 
 ## Comment utiliser
 
-Faites simplement tourner chaques cellules dans l'ordre au fur et à mesure que vous parcourer le fichier **"notebooks/Livrable_2_Groupe_Seyni.ipynb"** et tout le programme s'executrera.
+Faites simplement tourner chaque cellule dans l'ordre au fur et à mesure que vous parcourer le fichier **"notebooks/Livrable_2_Groupe_Seyni.ipynb"** et tout le programme s'executera.
 
 <center><img src="imgs/run_tuto.png" width="900"></center>
