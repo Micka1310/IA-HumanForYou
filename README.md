@@ -75,7 +75,7 @@ Ce fichier contient toute l'explication de notre projet ainsi que du code permet
 
 Nos preuves scientifiques et notre conclusion y sont aussi inclus.
 
-Libre à vous de le consulter si vous coulez tous les détailles de notre projet.
+Libre à vous de consulter le fichier si vous voulez tous les détailles de notre projet.
 
 ---
 
