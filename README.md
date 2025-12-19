@@ -4,10 +4,12 @@
 
 <center><img src="imgs/predict_hist.png" width="900"></center>
 
-**Contexte** : CESI École d'Ingénieurs - A3 FISE INFO - Bloc Intelligence Artificielle  
 **Date** : Décembre 2025  
+
 **Équipe** : Groupe 5 - CESI Analytics
+
 **Auteur** : Mickaël King
+
 **Contributeur** : BALDE Seyni Junior, EL GHAZAL Omar
 
 ---
