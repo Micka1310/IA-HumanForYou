@@ -2,13 +2,27 @@
 
 > Projet Machine Learning éthique pour prédire le départ des employés et proposer des leviers RH actionnables.
 
+<center><img src="imgs/predict_hist.png" width="900"></center>
+
 **Contexte** : CESI École d'Ingénieurs - A3 FISE INFO - Bloc Intelligence Artificielle  
 **Date** : Décembre 2025  
 **Équipe** : Groupe 5 - CESI Analytics
+**Auteur** : Mickaël King
+**Contributeur** : BALDE Seyni Junior, EL GHAZAL Omar
 
 ---
 
-## Problématique
+# Sommaire
+
+1. [Problématique](#Problematique)
+2. [Données disponibles](#Donnees-disponible)
+3. [Installation pré-requis](#Installation-pre-requis)
+4. [Fichier à executer](#Fichier-a-executer)
+5. [Comment utiliser](#Comment-utiliser)
+
+---
+
+## Problematique
 
 L'entreprise pharmaceutique HumanForYou (4000 employés, Inde) fait face à un taux de rotation de **15% par an** (600 départs). L'objectif est d'identifier les facteurs de départ et de proposer des actions de rétention **éthiques et transparentes**, conformes à l'AI Act 2024.
 
@@ -16,7 +30,7 @@ L'entreprise pharmaceutique HumanForYou (4000 employés, Inde) fait face à un t
 
 ---
 
-## Données
+## Donnees disponible
 
 | Dataset                    | Variables | Description                                                        |
 |---------------------------|-----------|--------------------------------------------------------------------|
@@ -28,3 +42,43 @@ L'entreprise pharmaceutique HumanForYou (4000 employés, Inde) fait face à un t
 
 
 **Démarche éthique** : Exclusion variables sensibles (Age, Gender, MaritalStatus) conformément au RGPD et AI Act 2024.
+
+---
+
+## Installation pre-requis
+
+Langage de programmation utilisé : 
+- Python
+- Jupyter notebook
+
+Bibliothèque et module importante utilisé : 
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Os
+- Sys
+- Datetime
+- Sklearn
+- Warning
+- Scipy
+
+---
+
+## Fichier a executer
+
+Tout le rapport de ce projet est dans le fichier jupyter notebook suivant : **"notebooks/Livrable_2_Groupe_Seyni.ipynb"**.
+
+Ce fichier contient toute l'explication de notre projet ainsi que du code permettant la création de nos IA.
+
+Nos preuves scientifiques et notre conclusion y sont aussi inclus.
+
+Libre à vous de le consulter si vous coulez tous les détailles de notre projet.
+
+---
+
+## Comment utiliser
+
+Faites simplement tourner chaques cellules dans l'ordre au fur et à mesure que vous parcourer le fichier **"notebooks/Livrable_2_Groupe_Seyni.ipynb"** et tout le programme s'executrera.
+
+<center><img src="imgs/run_tuto.png" width="900"></center>
